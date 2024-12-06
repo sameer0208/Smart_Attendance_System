@@ -1,4 +1,5 @@
 SMART ATTENDANCE PROJECT PLAN
+
 Admin Panel:
 An admin will be the person who will manage the attendance (Professor/Teacher/Event Handler). 
 Steps:
