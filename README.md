@@ -16,3 +16,7 @@ b.	They should within the range of the QR Code, e.g. if the given range is 100 m
 If any of the above criteria failed they will get an error message and they will not be allowed to submit their attendance.
 3.	Then the student needs to enter their name and roll number and then click on submit.
 4.	The student will get successful submission message and the details entered by the student will be shared with the respective Admin.
+
+
+HOME PAGE:
+![image](https://github.com/user-attachments/assets/5a1c255f-f698-4cb4-af7f-e8da19b626d8)
