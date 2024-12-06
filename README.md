@@ -20,3 +20,9 @@ If any of the above criteria failed they will get an error message and they will
 
 HOME PAGE:
 ![image](https://github.com/user-attachments/assets/5a1c255f-f698-4cb4-af7f-e8da19b626d8)
+
+REGISTRATION PAGE:
+![image](https://github.com/user-attachments/assets/413d4e98-45b1-41dd-a11d-31d7172a245c)
+
+LOGIN PAGE:
+![image](https://github.com/user-attachments/assets/d3a4ce61-e10f-491c-8ec4-44c5ed16f2a6)
